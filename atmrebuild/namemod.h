@@ -1,0 +1,1 @@
+int namemod(std::string);

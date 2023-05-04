@@ -1,0 +1,1 @@
+int sendmoney(std::string);

@@ -1,0 +1,1 @@
+int loginpageactionhandler(std::string, int);

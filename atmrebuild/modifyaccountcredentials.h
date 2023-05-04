@@ -1,0 +1,1 @@
+int modifyaccountcredentials(std::string);
